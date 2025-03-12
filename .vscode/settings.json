@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "jackson-core-2.15.0.jar",
+        "jackson-databind-2.15.0.jar"
+    ]
+}
